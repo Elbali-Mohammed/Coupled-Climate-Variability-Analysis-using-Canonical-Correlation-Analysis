@@ -8,6 +8,8 @@ This project explores coupled ocean–atmosphere variability using **Canonical C
 
 - Sea Level Pressure (SLP)
 
+Data were obtained from the NOAA Physical Sciences Laboratory (PSL), a standard reference source for climate reanalysis and observational datasets.
+
 The accompanying notebook provides a step-by-step explanation, from mathematical formulation to physical interpretation of the results. By combining rigorous preprocessing, dimensionality reduction, and multivariate statistical analysis, the project identifies physically meaningful coupled modes of variability, with a focus on interannual climate dynamics.
 
 ## Scientific Motivation
